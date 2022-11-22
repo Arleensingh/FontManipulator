@@ -1,0 +1,25 @@
+.heading {
+    font-size:21px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note {
+    font-size:18px;
+    color:beige;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color:rgb(219, 75, 75);
+    background-color:beige;
+    width:100%;
+    bottom:0;
+    font-size:18px;
+}
+
+body {
+    text-align:center;
+    background-color: rgb(245, 140, 140);
+}
